@@ -21,3 +21,4 @@ Supongamos un ejemplo de un txt:
 
 
 deberás pasarle al programa un **USER-AGENT** (dentro de la lista de archivos que quieras inspeccionar), como puede ser por ejemplo: ```Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0```
+el programa retornara como resultado una lista de ips relacionadas a ese user-agent 
