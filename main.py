@@ -62,10 +62,6 @@ for file in os.listdir(path):
         ips = buscador_ips(file_content,palabra)
         lista_total_ips.extend(ips)
 
-
-
-
-
 lista_sin_repetir = eliminar_duplicados(lista_total_ips)
 print(lista_sin_repetir)
 print(len(lista_sin_repetir))
